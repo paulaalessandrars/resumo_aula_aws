@@ -22,10 +22,6 @@ O objetivo deste repositório é proporcionar uma referência prática e explica
 
 Contribuições são bem-vindas! Se você deseja adicionar informações, corrigir algo ou melhorar o conteúdo, sinta-se à vontade para abrir um *pull request* ou relatar uma *issue*. Vamos construir um guia mais completo juntos!
 
-## 📄 Licença
-
-Este projeto está licenciado sob a [MIT License](./LICENSE).
-
 ---
 
 Esperamos que este resumo e o repositório sejam úteis na sua jornada de aprendizado sobre AWS e construção de fluxos automatizados! 💡
