@@ -1,4 +1,4 @@
-# 📝 Projeto: Resumo sobre Criando um Assistente de Delivery com AWS Step Functions e Amazon Bedrock
+# 📝 Resumo da aula prática sobre "Criando um Assistente de Delivery com AWS Step Functions e Amazon Bedrock"
 
 Bem-vindo(a) ao repositório que contém o resumo detalhado da aula sobre como criar um **Assistente de Delivery** utilizando **AWS Step Functions** e **Amazon Bedrock**. Neste resumo, exploramos a arquitetura, a implementação e os principais conceitos abordados na aula prática.
 
