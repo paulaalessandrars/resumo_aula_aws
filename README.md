@@ -24,4 +24,4 @@ Contribuições são bem-vindas! Se você deseja adicionar informações, corrig
 
 ---
 
-Esperamos que este resumo e o repositório sejam úteis na sua jornada de aprendizado sobre AWS e construção de fluxos automatizados! 💡
+Espero que este resumo e o repositório sejam úteis na sua jornada de aprendizado sobre AWS e construção de fluxos automatizados! 💡
